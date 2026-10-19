@@ -50,3 +50,45 @@
 ## Обоснование
 
 Указанные доказательства невозможно получить самостоятельно либо ответы ещё не получены. Прошу истребовать их в порядке ст. 57 ГПК РФ.
+
+## Индивидуальное обоснование по каждому доказательству
+
+### EVIDENCE 1 — соглашение INSURER от 20.11.2023
+
+- WHAT_FACT_IT_PROVES: условия урегулирования и объём отказа/согласия.
+- HOLDER: INSURER.
+- INDEPENDENT_REQUEST_DATE: 16.10.2026 / 19.10.2026.
+- REQUEST_NUMBER: 01-03/114788-26.
+- RESULT: response pending.
+- WHY_USER_CANNOT_OBTAIN: документ находится у страховщика, ответчику не передан.
+- WHY_RELEVANT: влияет на толкование подписи и правовые последствия.
+- COURT_REQUEST: истребовать оригинал/заверенную копию.
+
+### EVIDENCE 2 — фото осмотра 30.10.2023
+
+- WHAT_FACT_IT_PROVES: фактическое состояние и локализация повреждений.
+- HOLDER: INSURER.
+- REQUEST_NUMBER: addendum to 01-03/114788-26.
+- RESULT: response pending.
+- WHY_USER_CANNOT_OBTAIN: фото не приложены к изученному комплекту.
+- WHY_RELEVANT: без них нельзя проверить 10 строк акта.
+- COURT_REQUEST: истребовать исходные фото.
+
+### EVIDENCE 3 — материалы европротокола/фотофиксации
+
+- WHAT_FACT_IT_PROVES: первоначальный объём видимых повреждений.
+- HOLDER: INSURER / оператор европротокола.
+- INDEPENDENT_REQUEST_DATE: prepared.
+- RESULT: response pending.
+- WHY_USER_CANNOT_OBTAIN: самостоятельный доступ не подтверждён.
+- WHY_RELEVANT: показывает разницу между европротоколом и актом осмотра.
+- COURT_REQUEST: истребовать электронное извещение и фотофиксацию.
+
+### EVIDENCE 4 — история ДТП и ремонтов CLAIMANT_VEHICLE
+
+- WHAT_FACT_IT_PROVES: возможные иные ДТП/ремонты до и после 29.10.2023.
+- HOLDER: GIBDD / NSIS / RSA / CLAIMANT.
+- RESULT: prepared / open.
+- WHY_USER_CANNOT_OBTAIN: требуется доступ к государственным/страховым системам.
+- WHY_RELEVANT: устраняет альтернативные источники повреждений.
+- COURT_REQUEST: истребовать сведения о событиях по VIN.

@@ -2,9 +2,9 @@
 RQ01,INSURER,CASCO_INSURANCE_EVENT,INSURER,2026-10-16,01-03/114788-26,REGISTERED,response pending,соглашение и расчёт по КАСКО,1,первичный запрос
 RQ02,INSURER,CASCO_INSURANCE_EVENT,INSURER,TO_BE_CONFIRMED,UNKNOWN,SENT,response pending,полный страховой файл,1,дополнение по 7 пунктам
 RQ03,INSURER,EUROPROTOCOL_DTP,INSURER,TO_BE_CONFIRMED,UNKNOWN,PREPARED,response pending,фото с места ДТП 29.10.2023,1,отдельный запрос по фотофиксации
-RQ04,GOSUSLUGI_AUTO,POLICE_REGISTERED_DTP,GOSUSLUGI_AUTO,TO_BE_CONFIRMED,UNKNOWN,PREPARED,response pending,история ДТП в ЛК,2,история ЛК Госуслуг
-RQ05,GOSUSLUGI_AUTO,EUROPROTOCOL_DTP,GOSUSLUGI_AUTO,TO_BE_CONFIRMED,UNKNOWN,PREPARED,response pending,материалы европротокола 231029-18673,3,запрос в поддержку
-RQ06,GOSUSLUGI_AUTO,EUROPROTOCOL_DTP,GOSUSLUGI_AUTO,TO_BE_CONFIRMED,UNKNOWN,PREPARED,response pending,фотофиксация 347490,3,проверка фотофиксации
+RQ04,GOSUSLUGI_AUTO,POLICE_REGISTERED_DTP,GOSUSLUGI_AUTO,TO_BE_CONFIRMED,UNKNOWN,PREPARED,response pending,история ДТП в ЛК,2,история ЛК/метаданные; основной фото запрос — INSURER
+RQ05,GOSUSLUGI_AUTO,EUROPROTOCOL_DTP,GOSUSLUGI_AUTO,TO_BE_CONFIRMED,UNKNOWN,PREPARED,response pending,материалы европротокола 231029-18673,3,запрос в поддержку; не основной источник фото
+RQ06,GOSUSLUGI_AUTO,EUROPROTOCOL_DTP,GOSUSLUGI_AUTO,TO_BE_CONFIRMED,UNKNOWN,PREPARED,response pending,фотофиксация 347490,3,проверка фотофиксации; основной запрос фото — INSURER
 RQ07,NSIS,EUROPROTOCOL_HISTORY,NSIS,TO_BE_CONFIRMED,UNKNOWN,OPEN / VERIFY_RECIPIENT_AND_ACCESS_RULES,response pending,иные страховые события по VIN,4,отдельное обращение
 RQ08,RSA,EUROPROTOCOL_HISTORY,RSA,TO_BE_CONFIRMED,UNKNOWN,OPEN / VERIFY_RECIPIENT_AND_ACCESS_RULES,response pending,иные европротоколы по VIN,5,отдельное обращение
 RQ09,GIBDD,POLICE_REGISTERED_DTP,GIBDD,TO_BE_CONFIRMED,UNKNOWN,PREPARED / NOT_SENT,response pending,ДТП до и после 29.10.2023,6,история регистрации и ДТП
