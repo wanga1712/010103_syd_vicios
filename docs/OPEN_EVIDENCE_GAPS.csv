@@ -1,0 +1,11 @@
+﻿gap_id,evidence_gap,claim_point_ids,request_direction,status
+G01,Полный текст соглашения 20.11.2023,CP07,INSURER,RESPONSE_PENDING
+G02,Банковское подтверждение перечисления 57 100,CP06,INSURER,RESPONSE_PENDING
+G03,Исходные фото осмотра 30.10.2023,CP03 CP04 CP17,INSURER,RESPONSE_PENDING
+G04,Исходные фото ДТП 29.10.2023,CP05 CP17,INSURER/GOSUSLUGI_AUTO,PREPARED
+G05,Расшифровки сокращений акта,CP03,INSURER,RESPONSE_PENDING
+G06,История ДТП и ремонтов VEHICLE_A,CP09 CP10 CP11 CP12,CLAIMANT/GIBDD,PREPARED
+G07,Иные европротоколы/страховые события,CP10,NSIS/RSA,OPEN
+G08,Полный расчётный лист 2026,CP13 CP16,CLAIMANT/INSURER,RESPONSE_PENDING
+G09,Каталожная привязка артикулов,CP15,CLAIMANT/INSURER,RESPONSE_PENDING
+G10,Подтверждение расходов 25 000 и 50 000,CP19 CP20,CLAIMANT,PREPARED
