@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "DefenseEvidenceRow",
+  "type": "object",
+  "required": [
+    "act_row",
+    "exact_quote",
+    "act_image",
+    "visibility",
+    "calculation_2026",
+    "missing_proof",
+    "defense_position",
+    "verification_status"
+  ],
+  "properties": {
+    "act_row": {"type": "integer"},
+    "exact_quote": {"type": "string"},
+    "act_image": {"type": "string"},
+    "accident_image": {"type": ["string", "null"]},
+    "visibility": {
+      "type": "string",
+      "enum": ["VISIBLE", "NOT_VISIBLE", "NOT_ASSESSABLE"]
+    },
+    "original_inspection_photo": {"type": ["string", "null"]},
+    "inspection_method": {"type": ["string", "null"]},
+    "other_damage_sources": {"type": ["string", "null"]},
+    "calculation_2026": {"type": "string"},
+    "missing_proof": {"type": "string"},
+    "defense_position": {"type": "string"},
+    "verification_status": {
+      "type": "string",
+      "enum": ["CONFIRMED", "NEEDS_VISUAL_REVIEW", "NOT_FOUND_IN_REVIEWED_SET"]
+    }
+  }
+}

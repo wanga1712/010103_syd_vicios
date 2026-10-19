@@ -1,0 +1,17 @@
+raw/
+originals/
+private/
+exports/
+court_uploads/
+*.jpg
+*.jpeg
+*.png
+*.pdf
+*.docx
+*.zip
+.env
+.env.*
+*.sqlite
+*.db
+__pycache__/
+*.log
