@@ -76,13 +76,13 @@
 
 ### EVIDENCE 3 — материалы европротокола/фотофиксации
 
-- WHAT_FACT_IT_PROVES: первоначальный объём видимых повреждений.
+- WHAT_FACT_IT_PROVES: первоначальный объём видимых повреждений и полнота электронной фотофиксации.
 - HOLDER: INSURER / оператор европротокола.
 - INDEPENDENT_REQUEST_DATE: prepared.
 - RESULT: response pending.
-- WHY_USER_CANNOT_OBTAIN: самостоятельный доступ не подтверждён.
+- WHY_USER_CANNOT_OBTAIN: Local copies of three accident photos are available; official electronic originals, complete photo set and metadata are not independently available to defendant.
 - WHY_RELEVANT: показывает разницу между европротоколом и актом осмотра.
-- COURT_REQUEST: истребовать электронное извещение и фотофиксацию.
+- COURT_REQUEST: истребовать официальный электронный комплект, метаданные загрузки/передачи и проверить полноту фотофиксации.
 
 ### EVIDENCE 4 — история ДТП и ремонтов CLAIMANT_VEHICLE
 

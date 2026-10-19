@@ -1,5 +1,3 @@
 # Branch scope
 
-Ветка `defense/evidence-audit-2026-10-19` содержит обезличенный аудит доказательств и подготовленные рабочие документы.
-
-Оригиналы и персональные данные в PR не входят.
+Branch contains working defense materials and original evidence images. Original evidence may contain personal and case-related data. The branch/PR must not be treated as redacted.
