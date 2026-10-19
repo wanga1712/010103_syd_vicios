@@ -9,3 +9,4 @@ G07,Иные европротоколы/страховые события,CP10,N
 G08,Полный расчётный лист 2026,CP13 CP16,CLAIMANT/INSURER,RESPONSE_PENDING
 G09,Каталожная привязка артикулов,CP15,CLAIMANT/INSURER,RESPONSE_PENDING
 G10,Подтверждение расходов 25 000 и 50 000,CP19 CP20,CLAIMANT,PREPARED
+G11,Отсутствующие страницы расчёта 2026 № 12–25,CP13 CP16,CLAIMANT/INSURER,REQUEST_NEEDED
