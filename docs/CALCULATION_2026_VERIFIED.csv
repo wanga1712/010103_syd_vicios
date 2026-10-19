@@ -1,0 +1,7 @@
+calc_id,act_row,part_name_ocr,part_number,operation,price_ocr,source_photo,verification_status,defense_position
+CALC01,1,Крышка багажника,6RU827025F,замена и окраска,133 112.00,IMG_20261015_125151.jpg,NEEDS_VISUAL_REVIEW,Оспаривается очевидная необходимость замены
+CALC02,4,Бампер задний грунт,6RU807421DGRU,замена,13 554.00,IMG_20261015_125151.jpg,NEEDS_VISUAL_REVIEW,Оспаривается необходимость замены
+CALC03,4,Облицовка/направляющая заднего бампера,6RU807863,замена,2 643.67,IMG_20261015_125151.jpg,NEEDS_VISUAL_REVIEW,Требуется привязка к строке акта
+CALC04,7,Кронштейн/крепление,6RU807394B,замена,870.67,IMG_20261015_125151.jpg,NEEDS_VISUAL_REVIEW,Скрытая зона
+CALC05,9,Панель задняя внутр,6RU813301A,замена,10 361.33,IMG_20261015_125151.jpg,NEEDS_VISUAL_REVIEW,Внутренний элемент
+CALC06,3,Замок крышки багажника,6RU827505C,замена,8 760.67,IMG_20261015_125151.jpg,NEEDS_VISUAL_REVIEW,Проверить: в акте обшивка замка, в расчёте замок
