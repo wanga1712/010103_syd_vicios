@@ -42,3 +42,7 @@ P040,Сумма ремонта без износа,docs/CLAIM_TEXT_POINTS.csv,CL
 P041,Сумма ремонта с износом,docs/CLAIM_TEXT_POINTS.csv,CL-P3-05,Стоимость ремонта с износом 166 315.17,размер требования,VERIFIED_FROM_CLAIM_TEXT
 P042,Документ суда № 32403/2026,docs/ACTION_LOG_REDACTED.md,запись от 2026-10-16,USER_REPORTED: приобщён к делу 02-5004/2026,статус документа в деле,USER_REPORTED
 P043,Автор заключения 2026 года,docs/CLAIM_TEXT_POINTS.csv,CL-P3-04,Договор с ИП Левинский Н.К. № VEHICLE_A_PLATE от 07.08.2026,идентификация автора исследования,VERIFIED_FROM_CLAIM_TEXT
+P044,Плёнка крышки багажника включена в расчёт 2026 года,docs/CALCULATION_2026_VERIFIED.csv,CALC08,"Плёнка крышки багажника - замена - 1 500",расчётная позиция,VERIFIED_FROM_CALCULATION
+P045,Плёнка заднего бампера включена отдельно,docs/CALCULATION_2026_VERIFIED.csv,CALC07,"Плёнка заднего бампера - замена - 2 500",расчётная позиция,VERIFIED_FROM_CALCULATION
+P046,Работа по замене плёнки,docs/court_packet_2026-10-26/WIP18_USER_FACTS.md,2026-10-20,"работа «плёнка - замена» - 400 руб.",расчётная позиция,USER_REPORTED_SOURCE_FILE_PENDING
+P047,"На первичных фото оклейка видна на бампере, а отдельная плёнка на крышке не идентифицируется",evidence/04_dtp_photos,"IMG_20261014_211114.jpg; IMG_20261014_211124.jpg; IMG_20261014_211129.jpg",визуальная оценка трёх исходных фотографий,первичная фотофиксация,USER_VISUAL_REVIEW
