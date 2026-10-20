@@ -15,3 +15,7 @@ court_uploads/
 *.db
 __pycache__/
 *.log
+
+# Court correspondence explicitly included in the WIP-18 evidence set.
+!evidence/07_correspondence_2026/
+!evidence/07_correspondence_2026/2026-10-20_MVD_response_3-267729720750.pdf

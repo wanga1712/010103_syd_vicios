@@ -1,13 +1,16 @@
-﻿gap_id,evidence_gap,claim_point_ids,request_direction,status
-G01,Полный текст соглашения 20.11.2023,CP07,INSURER,RESPONSE_PENDING
-G02,Банковское подтверждение перечисления 57 100,CP06,INSURER,RESPONSE_PENDING
-G03,Исходные фото осмотра 30.10.2023,CP03 CP04 CP17,INSURER,RESPONSE_PENDING
-G04,Официальные электронные оригиналы и метаданные трёх ДТП-фото (локальные копии имеются),CP05 CP17,INSURER/GOSUSLUGI_AUTO,LOCAL_COPIES_AVAILABLE / OFFICIAL_ORIGINALS_METADATA_PENDING
-G05,Расшифровки сокращений акта,CP03,INSURER,RESPONSE_PENDING
-G06,История ДТП и ремонтов CLAIMANT_VEHICLE,CP09 CP10 CP11 CP12,CLAIMANT/GIBDD,PREPARED
-G07,Иные европротоколы/страховые события,CP10,NSIS/RSA,OPEN
-G08,Полный расчётный лист 2026,CP13 CP16,CLAIMANT/INSURER,RESPONSE_PENDING
-G09,Каталожная привязка артикулов,CP15,CLAIMANT/INSURER,RESPONSE_PENDING
-G10,"Расходы 25 000, 50 000 и 8 588 документально подтверждены",CP19 CP20,CLAIMANT,CLOSED
-G11,Отсутствующие страницы расчёта 2026 № 12–25 (если они действительно входят в оригинал),CP13 CP16,CLAIMANT/INSURER,REQUEST_NEEDED
-G12,Первичное подтверждение причинной связи скрытых/конструктивных повреждений с ДТП 29.10.2023,CP14 CP17,INSURER/CLAIMANT,OPEN
+gap_id,evidence_gap,claim_point_ids,request_direction,status
+G01,Полный текст соглашения 20.11.2023 по КАСКО,CP07,АО ГСК «Югория»,YUGORIA_REFUSED_ACCESS / COURT_REQUEST_REQUIRED
+G02,Банковское подтверждение перечисления 57 100 по КАСКО,CP06,АО ГСК «Югория»,YUGORIA_REFUSED_ACCESS / COURT_REQUEST_REQUIRED
+G03,Исходные фото осмотра 30.10.2023,CP03 CP04 CP17,АО ГСК «Югория»,YUGORIA_REFUSED_ACCESS / COURT_REQUEST_REQUIRED
+G04,Официальные электронные оригиналы и метаданные трёх ДТП-фото,CP05 CP17,Госуслуги Авто / оператор европротокола,LOCAL_COPIES_AVAILABLE / OFFICIAL_ORIGINALS_METADATA_PENDING
+G05,Расшифровки сокращений акта 21К / Р.М. / ИРЖ / ремонт 3,CP03,АО ГСК «Югория»,YUGORIA_REFUSED_ACCESS / COURT_REQUEST_REQUIRED
+G06,История ДТП и регистрационных действий CLAIMANT_VEHICLE,CP09 CP10 CP11 CP12,УГИБДД ГУ МВД России по г. Москве,SELF_REQUEST_REFUSED / COURT_REQUEST_AVAILABLE
+G07,Иные европротоколы и страховые события,CP10,НСИС / РСА,NSIS_LIMITED_ACCESS / RSA_OPEN
+G08,Полный расчётный лист 2026,CP13 CP16,Истец / АО ГСК «Югория»,REQUEST_PENDING
+G09,Каталожная привязка артикулов,CP15,Истец / АО ГСК «Югория»,REQUEST_PENDING
+G10,"Расходы 25 000, 50 000 и 8 588 документально подтверждены",CP19 CP20,Истец,CLOSED
+G11,Отсутствующие страницы расчёта 2026 № 12-25,CP13 CP16,Истец / АО ГСК «Югория»,REQUEST_NEEDED
+G12,Первичное подтверждение причинной связи скрытых/конструктивных повреждений,CP14 CP17,АО ГСК «Югория» / истец,PRIMARY_DEFECT_PHOTO_REQUIRED / COURT_REQUEST_PENDING
+G13,Материалы ОСАГО и сведения о суброгации,CP18,АО «Зетта Страхование»,REGISTERED / RESPONSE_PENDING
+G14,"Сведения о лице, проводившем осмотр 30.10.2023",CP03 CP14,АО ГСК «Югория»,COURT_REQUEST_REQUIRED
+G15,Фото и документы дефектовки/разборки 30.10.2023,CP03 CP14 CP17,АО ГСК «Югория»,YUGORIA_REFUSED_ACCESS / COURT_REQUEST_REQUIRED
