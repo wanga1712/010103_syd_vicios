@@ -1,7 +1,7 @@
 # Финальный судебный пакет
 
 Дело № 02-5004/2026  
-Статус: `TEXT_READY = YES`, `STRATEGY_FROZEN = YES`, `TEXT_FROZEN = YES`, `PDF_READY = NO`
+Статус: `TEXT_READY = YES`, `STRATEGY_FROZEN = NO_NEW_FACTS_PENDING`, `PDF_READY = NO`
 
 ## 1. Что подавать: финальные тексты
 
@@ -43,6 +43,7 @@
 - `07_HEARING_PLAN.md` - план заседания;
 - `08_SOURCE_ASSERTION_MAP.csv` - карта фактических утверждений и источников;
 - `09_OUTGOING_YUGORIA_CLARIFICATION.draft.md` - проект уточняющего запроса;
+- `10_OUTGOING_YUGORIA_INSURANCE_CHAIN.draft.md` - проект расширенного запроса по страховой цепочке;
 - `FINANCIAL_DOCUMENTS_CHECKLIST.md` - перечень документов об имущественном положении;
 - `LAW_VERIFICATION_REPORT.md` - отчёт о правовой проверке;
 - `WIP18_USER_FACTS.md` - зафиксированные пользователем факты.
@@ -54,6 +55,8 @@
 - расчёты и таблицы стоимости;
 - вопросы для заседания;
 - стратегии и журнал действий.
+
+Страховая цепочка и вопросы предстрахового осмотра отдельно разобраны в `docs/INSURANCE_CHAIN_AUDIT.md`.
 
 Для подачи используется `review_md/`, а не `docs/court_packet_2026-10-26/*.draft.md`.
 
@@ -138,7 +141,7 @@
 В Git отслеживаются:
 
 - 6 финальных Markdown-документов и статус пакета;
-- 44 файла в `docs/`;
+- 46 файлов в `docs/`;
 - 111 файлов доказательств в `evidence/`, включая 109 изображений и 2 PDF;
 - 4 исторических PDF в `court_uploads/archive_superseded_d1ff51b/`;
 - схема доказательств и описание инструментов.
