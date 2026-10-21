@@ -12,7 +12,7 @@
 | `review_md/01_DEFENDANT_WRITTEN_POSITION.md` | Письменная позиция ответчика |
 | `review_md/02_MOTION_ATTACH_EVIDENCE.md` | Ходатайство о приобщении доказательств |
 | `review_md/03_MOTION_REQUEST_EVIDENCE.md` | Ходатайство об истребовании доказательств |
-| `review_md/04_MOTION_INSURERS_PARTICIPATION.md` | Ходатайство о привлечении АО «Зетта Страхование» и статусе АО ГСК «Югория» |
+| `review_md/04_MOTION_INSURERS_PARTICIPATION.md` | Ходатайство о процессуальном статусе страховщиков по двум вариантам п. 114 Пленума №31 |
 | `review_md/05_MOTION_SUMMON_PERSONS.md` | Ходатайство о вызове лиц |
 | `review_md/06_MOTION_JUDICIAL_EXPERTISE_RESERVE.md` | Резервное ходатайство о судебной экспертизе |
 | `review_md/STATUS` | Технический статус пакета |
