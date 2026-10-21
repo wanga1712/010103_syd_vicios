@@ -1,4 +1,4 @@
-# FINANCIAL_DOCUMENTS_CHECKLIST
+﻿# FINANCIAL_DOCUMENTS_CHECKLIST
 
 Internal analysis, not for filing unless deliberately attached.
 
