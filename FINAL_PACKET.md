@@ -1,7 +1,7 @@
 # Финальный судебный пакет
 
 Дело № 02-5004/2026  
-Статус: `TEXT_READY = YES`, `STRATEGY_FROZEN = NO_NEW_FACTS_PENDING`, `PDF_READY = NO`
+Статус: `TEXT_READY = YES`, `WORD_READY = YES`, `PDF_READY = NO`
 
 ## 1. Что подавать: финальные тексты
 
