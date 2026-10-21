@@ -19,3 +19,8 @@ __pycache__/
 # Court correspondence explicitly included in the WIP-18 evidence set.
 !evidence/07_correspondence_2026/
 !evidence/07_correspondence_2026/2026-10-20_MVD_response_3-267729720750.pdf
+
+# Editable court documents explicitly included in the final packet.
+!editable_docx/
+!editable_docx/*.docx
+!editable_docx/*.md
