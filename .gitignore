@@ -24,3 +24,9 @@ __pycache__/
 !editable_docx/
 !editable_docx/*.docx
 !editable_docx/*.md
+
+# Full user-facing case structure, including original scans and photos.
+!01_ИСК_ИСТЦА/**
+!02_ЗАПРОСЫ_И_ОТВЕТЫ/**
+!03_ДОКАЗАТЕЛЬСТВА/**
+!04_ДОКУМЕНТЫ_ДЛЯ_СУДА/**
