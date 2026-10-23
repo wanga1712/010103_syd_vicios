@@ -1,0 +1,10 @@
+calc_row,item_or_operation,amount,exclusive_to_trunk_lid,primary_support,necessity_support,defense_status,notes
+CALC01_DETAIL,"Крышка багажника, деталь 6RU827025F",UNVERIFIED,YES,"Акт 30.10.2023, строка 1; требуется первичное фото и расшифровка 21К",NOT_PROVEN,NECESSITY_NOT_PROVEN,"Строка расчёта объединяет несколько операций; агрегированную сумму до построчного разложения не использовать"
+CALC01_REPLACE,"Замена крышки багажника",UNVERIFIED,YES,"Акт 30.10.2023, строка 1","NOT_PROVEN; ремонт не исследован",NECESSITY_NOT_PROVEN,"Требуется доказать, почему восстановление крышки невозможно или неразумно"
+LAB01,"Крышка багажника - замена при снятом",UNVERIFIED,YES,"LABOR_2026_VERIFIED.csv, LAB01","NONE",PRICE_AND_NECESSITY_UNVERIFIED,"Нормо-часы и стоимость в OCR-черновике не подтверждены"
+LAB02,"Крышка багажника - снятие/установка",UNVERIFIED,YES,"LABOR_2026_VERIFIED.csv, LAB02","NONE",PRICE_AND_NECESSITY_UNVERIFIED,"Нормо-часы и стоимость в OCR-черновике не подтверждены"
+LAB09,"Окраска крышки багажника - новая часть",UNVERIFIED,YES,"LABOR_2026_VERIFIED.csv, LAB09","NONE",PRICE_AND_NECESSITY_UNVERIFIED,"Необходимость окраски и объём работ не подтверждены"
+PAINT_MATERIALS,"Окрасочные материалы по крышке багажника",UNVERIFIED,UNVERIFIED,"TO_VERIFY","NONE",NOT_ALLOCATED,"В проверенной выгрузке отдельная строка не идентифицирована"
+CALC08,"Плёнка крышки багажника",1500,YES,"Акт 30.10.2023, строка 2; первичные ДТП-фото не идентифицируют отдельную плёнку на крышке","NONE",EXISTENCE_AND_DAMAGE_NOT_PROVEN,"Вид и назначение плёнки не установлены; не именовать её антигравийной или прозрачной без источника"
+FILM_WORK,"Работа: плёнка - замена",400,UNVERIFIED,"Расчёт 2026; источник строки требует сверки","NONE",ALLOCATION_AND_NECESSITY_UNVERIFIED,"Проверить, относится ли работа только к крышке или распределена между элементами"
+RELATED_WORK,"Иные сопутствующие работы по крышке багажника",UNVERIFIED,UNVERIFIED,"TO_VERIFY","NONE",NOT_DECOMPOSED,"Требуется полное построчное раскрытие калькуляции"

@@ -1,0 +1,11 @@
+﻿labor_id,operation,normo_hours,price_ocr,related_act_row,source_photo,verification_status,notes
+LAB01,Крышка багажника — замена (при снятом),UNVERIFIED,UNVERIFIED,1,IMG_20261015_125151.jpg,OCR_DRAFT,Точная стоимость и часы требуют сверки
+LAB02,Крышка багажника — с/у,UNVERIFIED,UNVERIFIED,1,IMG_20261015_125151.jpg,OCR_DRAFT,Точная стоимость и часы требуют сверки
+LAB03,Облицовка заднего бампера — замена,UNVERIFIED,UNVERIFIED,4,IMG_20261015_125151.jpg,OCR_DRAFT,Точная стоимость и часы требуют сверки
+LAB04,Облицовка заднего бампера — с/у,UNVERIFIED,UNVERIFIED,4,IMG_20261015_125151.jpg,OCR_DRAFT,Точная стоимость и часы требуют сверки
+LAB05,Поперечина панели задка — ремонт 3,0 н/ч,3.0,UNVERIFIED,9,IMG_20261015_125151.jpg,OCR_DRAFT,Связать со строкой 9 акта
+LAB06,Панель задка — частичный монтаж,UNVERIFIED,UNVERIFIED,9,IMG_20261015_125151.jpg,OCR_DRAFT,Точная стоимость и часы требуют сверки
+LAB07,Панель задка — замена,UNVERIFIED,UNVERIFIED,10,IMG_20261015_125151.jpg,OCR_DRAFT,Точная стоимость и часы требуют сверки
+LAB08,Панель задка — частичный демонтаж,UNVERIFIED,UNVERIFIED,10,IMG_20261015_125151.jpg,OCR_DRAFT,Точная стоимость и часы требуют сверки
+LAB09,Окраска крышки багажника — новая часть,UNVERIFIED,UNVERIFIED,1,IMG_20261015_125151.jpg,OCR_DRAFT,Точная стоимость и часы требуют сверки
+LAB10,Окраска заднего бампера — новая часть,UNVERIFIED,UNVERIFIED,4,IMG_20261015_125151.jpg,OCR_DRAFT,Точная стоимость и часы требуют сверки
